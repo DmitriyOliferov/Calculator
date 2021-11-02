@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Calculat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Calculat_jar</output-path>
+    <root id="archive" name="Calculat.jar">
+      <element id="module-output" name="Calculat" />
+      <element id="extracted-dir" path="F:/Downloads/JTattoo-1.6.13.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
